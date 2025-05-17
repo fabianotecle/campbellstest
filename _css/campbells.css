@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+body {
+  font-family: "Open Sans", serif, sans-serif;
+  font-weight: 900;
+}
+
+header .header-top {
+  letter-spacing: 1px;
+}
+
+header .header-logo {
+  background-color: #cf2e2e;
+  color: white;
+  padding: 1rem 0;
+  letter-spacing: 1px;
+}
+
+header .header-hero .name {
+  font-size: 1.8rem;
+}
+
+header .header-hero .phone {
+  font-size: 1.5rem;
+}
+
+main .question-box {
+  box-shadow: 10px 10px 0px 0px #FFAD00;
+  -webkit-box-shadow: 10px 10px 0px 0px #FFAD00;
+  -moz-box-shadow: 10px 10px 0px 0px #FFAD00;
+  margin-bottom: 3rem;
+  padding: 2rem 3rem;
+  background-color: #F0E9E4;
+  max-width: 95%;
+}
+
+main .question-box .question {
+  color: #cf2e2e;
+}
+
+main .question-box button svg.arrow {
+  width: 50px;
+}
+
+main .answer p {
+  margin-top: 1rem;
+}
+
+main .who-i-am-mobile .name {
+  font-size: 1.4rem;
+}
+
+main .who-i-am-mobile .phone {
+  font-size: 1rem;
+}
+
+a {
+  position: relative;
+  text-decoration: none;
+}
+
+a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 0%;
+  background-color: currentColor;
+  transition: width 0.3s ease;
+}
+
+a:hover::after {
+  width: 100%;
+}
+
+footer {
+  background-color: #cf2e2e;
+}/*# sourceMappingURL=campbells.css.map */
