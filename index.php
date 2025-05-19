@@ -209,9 +209,9 @@
                     </svg>
                 </button>
                 <div class="answer overflow-hidden max-h-0 transition-[max-height] duration-500 text-gray-700">
-                    <p><a href="https://espetoflex.com.br/">https://espetoflex.com.br/</a>: Personalize the tag for
+                    <p><a href="https://espetoflex.com.br/" target="_blank">https://espetoflex.com.br/</a>: Personalize the tag for
                     your dog or cat! I've done all the customization, so you can see exactly what you're taking home!</p>
-                    <p><a href="https://plaquinhaflex.com.br/">https://plaquinhaflex.com.br/</a>: Personalize the tag for
+                    <p><a href="https://plaquinhaflex.com.br/" target="_blank">https://plaquinhaflex.com.br/</a>: Personalize the tag for
                     your dog or cat! I've done all the customization, so you can see exactly what you're taking home!</p>
                 </div>
             </div>
@@ -296,6 +296,19 @@
         <p>&copy; 2025 The Campbell's Company</p>
         <small>Developer Test by Fabiano Alves</small>
     </footer>
+
+    <!-- Histats.com  START  (aync)-->
+    <script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,4951399,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4951399&101" alt="cool hit counter" border="0"></a></noscript>
+    <!-- Histats.com  END  -->
 
 </body>
 </html>
