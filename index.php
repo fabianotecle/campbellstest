@@ -213,6 +213,9 @@
                     your dog or cat! I've done all the customization, so you can see exactly what you're taking home!</p>
                     <p><a href="https://plaquinhaflex.com.br/" target="_blank">https://plaquinhaflex.com.br/</a>: Personalize the tag for
                     your dog or cat! I've done all the customization, so you can see exactly what you're taking home!</p>
+					<p>Here I made my first 100 thousand reais by launching the Skewers customization. I also managed to
+                    use cache to make this site accessible to more than a million people without failing a load test!
+                    This site gave rise to plaquinhaflex.</p>
                 </div>
             </div>
             
@@ -224,9 +227,11 @@
                     </svg>
                 </button>
                 <div class="answer overflow-hidden max-h-0 transition-[max-height] duration-500 text-gray-700">
-                    <p>Here I made my first 100 thousand reais by launching the Skewers customization. I also managed to
-                    use cache to make this site accessible to more than a million people without failing a load test!
-                    This site gave rise to plaquinhaflex.</p>
+                    <p>I am a web developer with experience in both front-end and back-end technologies. I have worked with HTML, CSS, 
+					JavaScript, PHP, and recently I have been exploring React and modern frameworks such as TypeScript, NodeJS, NestJS, 
+					and NextJS. In my job, I am responsible for building and maintaining debit and credit software with numerous banking 
+					transactions using all these tools! I have a son who is in college studying computer science as well! And oh, I 
+					love playing the guitar! Rock n' Roll!!!</p>
                 </div>
             </div>
             
